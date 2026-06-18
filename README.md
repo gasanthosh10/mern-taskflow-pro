@@ -123,12 +123,7 @@ mern-taskflow-pro/
 - `DELETE /api/tasks/:id`
 - `GET /api/dashboard/summary`
 
-## Submission Tips
 
-1. Push this folder to GitHub.
-2. Deploy backend on Render, Railway, or Cyclic.
-3. Deploy frontend on Vercel or Netlify.
-4. Add the deployed backend URL to `client/.env`:
 
 ```env
 VITE_API_URL=https://your-backend-url.com/api
