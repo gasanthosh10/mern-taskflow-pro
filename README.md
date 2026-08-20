@@ -1,4 +1,5 @@
-# TaskFlow Pro - MERN Task Management Dashboard
+
+TaskFlow Pro - MERN Task Management Dashboard
 
 TaskFlow Pro is a full stack MERN task management dashboard built for teams that need to track projects, priorities, deadlines, and progress from one clean workspace.
 
