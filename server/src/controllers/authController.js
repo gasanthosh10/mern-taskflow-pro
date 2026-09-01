@@ -38,4 +38,3 @@ export const login = async (req, res, next) => {
 export const me = (req, res) => {
   res.json({ user: userPayload(req.user) });
 };
-
