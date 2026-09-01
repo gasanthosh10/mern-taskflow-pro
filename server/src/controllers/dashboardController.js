@@ -46,4 +46,3 @@ export const getSummary = async (_req, res, next) => {
     next(error);
   }
 };
-
