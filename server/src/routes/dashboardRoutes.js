@@ -8,4 +8,3 @@ router.use(protect);
 router.get('/summary', getSummary);
 
 export default router;
-
